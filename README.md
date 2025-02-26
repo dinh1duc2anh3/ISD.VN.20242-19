@@ -12,9 +12,9 @@ Danh sách các thành viên trong Nhóm 19 bao gồm 5 thành viên:
 # Phân chia công việc
 **Đinh Đức Anh**     : phụ trách Usecase **Pay order (Customer/VNPay)** và phần **Business process**
 
-**Lương Anh Minh**   : phụ trách Usecase **Place rush order (Customer)** và phần **Introduction**
+**Lương Anh Minh**   : phụ trách Usecase **View product detail (Customer/Product Manager)** và phần **Introduction**
 
-**Nguyễn Văn Hiếu**  : phụ trách Usecase **View product detail (Customer/Product Manager)** và phần **Reliability & performance & usability**
+**Nguyễn Văn Hiếu**  : phụ trách Usecase **Place rush order (Customer)** và phần **Reliability & performance & usability**
 
 **Bùi Minh Tuấn**    : phụ trách Usecase **Place order (Customer)** và phần **Functionality & Usecase Diagram**
 
